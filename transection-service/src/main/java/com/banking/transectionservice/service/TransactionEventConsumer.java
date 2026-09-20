@@ -113,4 +113,4 @@ public class TransactionEventConsumer {
             log.error("Error handling fraud check clean: {}", e.getMessage(), e);
         }
     }
-}
+} 
