@@ -12,4 +12,4 @@ public class TransectionServiceApplication {
 		SpringApplication.run(TransectionServiceApplication.class, args);
 	}
 
-}
+} 
